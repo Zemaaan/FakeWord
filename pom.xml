@@ -16,6 +16,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.github.dukke</groupId>
+            <artifactId>FXRibbon</artifactId>
+            <version>1.2.1</version>  <!-- Change to the correct version -->
+        </dependency>
+        <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
             <version>19-ea+7</version>
